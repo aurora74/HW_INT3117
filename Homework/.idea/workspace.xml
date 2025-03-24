@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73fa16f8-13c6-4ba7-a8c0-a002daa95155" name="Changes" comment="HW03 Done">
-      <change beforePath="$PROJECT_DIR$/../CFG/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CFG/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CFG/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CFG/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CFG/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CFG/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CFG/src/main/java/org/example/StudentGradeCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CFG/src/test/java/StudentGradeCalculatorTest.java" beforeDir="false" />
+    <list default="true" id="73fa16f8-13c6-4ba7-a8c0-a002daa95155" name="Changes" comment="Rename folder">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DFT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StudentGradeCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CFGTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +77,7 @@
       <workItem from="1741876229163" duration="489000" />
       <workItem from="1741876797758" duration="20000" />
       <workItem from="1742786571650" duration="1237000" />
-      <workItem from="1742788263406" duration="120000" />
+      <workItem from="1742788263406" duration="425000" />
     </task>
     <task id="LOCAL-00001" summary="HW03 Done">
       <option name="closed" value="true" />
@@ -92,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741876660953</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rename folder">
+      <option name="closed" value="true" />
+      <created>1742788452238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742788452238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW03 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW03 Done" />
+    <MESSAGE value="Rename folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename folder" />
   </component>
 </project>

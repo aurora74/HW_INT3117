@@ -2,7 +2,7 @@ import org.example.StudentGradeCalculator;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class StudentGradeCalculatorTest {
+class CFGTest {
 
     @Test
     void testTC01() {
