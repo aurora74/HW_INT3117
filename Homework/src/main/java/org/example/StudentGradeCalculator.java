@@ -2,7 +2,7 @@ package org.example;
 
 public class StudentGradeCalculator {
     public static String determineGrade(int averageScore, int absences) {
-        String result;
+        String result = "";
         if (averageScore < 0 || averageScore > 10 || absences < 0) {
             return "Input không hợp lệ";
         }
